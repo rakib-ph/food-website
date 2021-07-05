@@ -95,3 +95,32 @@ h1 {
 .recipi img {
   width: 100%;
 }
+.reciepe {
+  margin-bottom: 150px;
+}
+.number {
+  box-shadow: 10px 10px 40px gray;
+  width: 80%;
+  display: flex;
+  border-radius: 15px;
+  padding: 10px;
+  margin-left: 100px;
+  margin-bottom: 150px;
+}
+.number h1 {
+  color: black;
+  font-size: 40px;
+}
+
+.follow {
+  padding-left: 80px;
+}
+footer h1 span {
+  color: rgb(255, 94, 94);
+}
+footer {
+  text-align: center;
+  background: black;
+  padding: 50px;
+  width: 100%;
+}
